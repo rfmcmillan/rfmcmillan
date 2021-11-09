@@ -2,7 +2,7 @@ Hi, I'm Russel, a full-stack engineer with a background in architecture. Prior t
 Now, after completing the 26-week software engineering program at Fullstack Academy I am ready to begin my career in software development.
 
 I enjoy writing code that is test-driven, clean and modular and I am interested in any opportunity in which I can continue to develop my skills 
-under an experienced engineer.
+by learning from an experienced engineer.
 
 I am proficient in: JavaScript, Node, PostgreSQL, Express, React, Redux, HTML5, CSS, Material-UI, Mocha, Chai, Sequelize, and Git
 
